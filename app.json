@@ -1,0 +1,28 @@
+{
+  "id": "6be7d178-e7ba-4eeb-aca1-e60f44ae9347",
+  "name": "al-test",
+  "publisher": "Default publisher",
+  "version": "1.0.0.2",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {"id": "437dbf0e-84ff-417a-965d-ed2bb9650972", "name": "Base Application", "publisher": "Microsoft", "version": "16.2.13509.13779"}
+  ],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "application": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://al-test.com/help/",
+  "showMyCode": true,
+  "runtime": "5.2"
+}
