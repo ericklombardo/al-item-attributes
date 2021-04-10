@@ -1,4 +1,4 @@
-codeunit 50100 "My Unbound Action API"
+codeunit 50100 "Item attribute unbound action"
 {
 
     /// <summary>
